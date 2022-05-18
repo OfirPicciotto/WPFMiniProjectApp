@@ -1,4 +1,4 @@
 # WPFMiniProjectApp
 
-A WPF application - Mock Contacts App
+A WPF application - Mock Addrress Book App
 
